@@ -1,0 +1,17 @@
+C:\Users\Touri\source\repos\DialogueBuilder\bin\Debug\net9.0-windows\DialogueBuilder.exe
+C:\Users\Touri\source\repos\DialogueBuilder\bin\Debug\net9.0-windows\DialogueBuilder.deps.json
+C:\Users\Touri\source\repos\DialogueBuilder\bin\Debug\net9.0-windows\DialogueBuilder.runtimeconfig.json
+C:\Users\Touri\source\repos\DialogueBuilder\bin\Debug\net9.0-windows\DialogueBuilder.dll
+C:\Users\Touri\source\repos\DialogueBuilder\bin\Debug\net9.0-windows\DialogueBuilder.pdb
+C:\Users\Touri\source\repos\DialogueBuilder\obj\Debug\net9.0-windows\DialogueBuilder.MainForm.resources
+C:\Users\Touri\source\repos\DialogueBuilder\obj\Debug\net9.0-windows\DialogueBuilder.MyTools.Forms.DialogueForm.resources
+C:\Users\Touri\source\repos\DialogueBuilder\obj\Debug\net9.0-windows\DialogueBuilder.csproj.GenerateResource.cache
+C:\Users\Touri\source\repos\DialogueBuilder\obj\Debug\net9.0-windows\DialogueBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Touri\source\repos\DialogueBuilder\obj\Debug\net9.0-windows\DialogueBuilder.AssemblyInfoInputs.cache
+C:\Users\Touri\source\repos\DialogueBuilder\obj\Debug\net9.0-windows\DialogueBuilder.AssemblyInfo.cs
+C:\Users\Touri\source\repos\DialogueBuilder\obj\Debug\net9.0-windows\DialogueBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Touri\source\repos\DialogueBuilder\obj\Debug\net9.0-windows\DialogueBuilder.dll
+C:\Users\Touri\source\repos\DialogueBuilder\obj\Debug\net9.0-windows\refint\DialogueBuilder.dll
+C:\Users\Touri\source\repos\DialogueBuilder\obj\Debug\net9.0-windows\DialogueBuilder.pdb
+C:\Users\Touri\source\repos\DialogueBuilder\obj\Debug\net9.0-windows\DialogueBuilder.genruntimeconfig.cache
+C:\Users\Touri\source\repos\DialogueBuilder\obj\Debug\net9.0-windows\ref\DialogueBuilder.dll
